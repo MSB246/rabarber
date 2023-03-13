@@ -1,5 +1,5 @@
-# rabarber
-## A very simple ( and very bad ) Brainf\*ck interpreter
+# Rabarber
+A very simple ( and very bad ) Brainf\*ck interpreter.
 
 ## How did i create the name?
 Here's the creation process:
