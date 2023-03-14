@@ -2,7 +2,7 @@
 
 #define BF_CHR "><+-.,[]"
 #define DATA_AMOUNT 30000
-#define CHAR_AMOUNT 1024
+#define CHAR_AMOUNT 1024*1024
 
 void eval(char *source) {
     char data[DATA_AMOUNT] = {0};

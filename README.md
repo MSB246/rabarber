@@ -11,3 +11,15 @@ Here's the creation process:
 5. Rabarber
 
 Believe it or not this is how I came up with the name.
+
+## How to use?
+Debug mode:
+```
+FILE="~filename~" make debug run
+```
+
+Release mode:
+```
+FILE="~filename~" make release run
+```
+
